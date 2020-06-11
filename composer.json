@@ -1,0 +1,15 @@
+{
+    "name": "zhd/packagetest",
+    "authors": [
+        {
+            "name": "EdisonK",
+            "email": "zhd@thinkerx.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zhd\\Packagetest\\": "src/"
+        }
+    }
+}
